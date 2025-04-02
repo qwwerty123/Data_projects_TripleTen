@@ -12,4 +12,4 @@ This repository contains data analysis projects completed as part of the TripleT
 ## Contact
 - 📧 Email: HAP29SANGHA@GMAIL.COM  
 - 💼 LinkedIn: [www.linkedin.com/in/harpreet-kaur-29031991s1]  
-- 🔗 GitHub: [Provide your GitHub URL]
+- 🔗 GitHub: [(https://github.com/qwwerty123/Data_projects_TripleTen.git)]
